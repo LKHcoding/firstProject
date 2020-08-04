@@ -1,0 +1,5 @@
+{
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.dependency.syncWithFolderExplorer": true,
+  "java.project.referencedLibraries": ["D:\\Tomcat 8.5\\lib\\*.jar"]
+}

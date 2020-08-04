@@ -80,7 +80,7 @@ public class Serv extends HttpServlet {
         out.println("github testing중입니다."); // r
         out.println("github testing중입니다."); // r
         out.println("github testing중입니다."); // r
-        out.println("github testing중입니다."); // r
+        out.println("github testing중입니다."); // rasdf
         out.println("github testing중입니다."); // 
         //바보야
         
