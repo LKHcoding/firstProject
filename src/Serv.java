@@ -74,7 +74,6 @@ public class Serv extends HttpServlet {
         		System.out.println("date :" + datepick2);
             	out.println("Post통신 :"+" 날짜는" + datepick2); // r
         	}
-        	
         }
         out.println("github testing중입니다."); // r
         out.println("github testing중입니다."); // r
@@ -82,7 +81,7 @@ public class Serv extends HttpServlet {
         out.println("github testing중입니다."); // r
         out.println("github testing중입니다."); // rasdf
         out.println("github testing중입니다."); // please do it sibal
-        //바보야
+        //바보야 바보
         
     }
 }
